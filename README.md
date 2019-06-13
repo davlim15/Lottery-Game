@@ -14,4 +14,4 @@ When the game initializes, a file containing the player's current winnings and c
 3 matches = $10
 4 matches = JACKPOT
 
-The project met all the requirements of the project, but lost a few points for the outcome of the game being almost completely random (I gained those points back with extra credit).
+The game met all the requirements of the project, but lost a few points for the outcome of the game being almost completely random (I gained those points back with extra credit).
